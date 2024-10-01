@@ -9,7 +9,7 @@ import Lab2._
 
 /**
  * This is an empty test class that you may use to write your own tests.
- */
+ *
 class Lab2StudentSpec extends AnyFlatSpec {
 
   val e_toNumber_test1 = ???
@@ -29,10 +29,11 @@ class Lab2StudentSpec extends AnyFlatSpec {
 
 }
 
-/*
+ *
  * This file contains a number of *Spec classes that define a set of
  * tests.
  */
+
 class Lab2Spec extends AnyFlatSpec {
 
   "And" should "return true only if both expressions are true" in {
